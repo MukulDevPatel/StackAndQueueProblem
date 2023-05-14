@@ -39,5 +39,13 @@ namespace StackAndQueueProblem
                 temp = temp.next;
             }
         }
+        public void Dequeue()
+        {
+            while (this.head != null)
+            {
+                Console.WriteLine("Queue value {0} is removed", this.head.data);
+                this.head = this.head.next;
+            }
+        }
     }
 }
