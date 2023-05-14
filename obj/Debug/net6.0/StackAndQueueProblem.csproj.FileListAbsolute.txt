@@ -1,0 +1,15 @@
+D:\BridgeLabz Second batch\StackAndQueueProblem\StackAndQueueProblem\bin\Debug\net6.0\StackAndQueueProblem.exe
+D:\BridgeLabz Second batch\StackAndQueueProblem\StackAndQueueProblem\bin\Debug\net6.0\StackAndQueueProblem.deps.json
+D:\BridgeLabz Second batch\StackAndQueueProblem\StackAndQueueProblem\bin\Debug\net6.0\StackAndQueueProblem.runtimeconfig.json
+D:\BridgeLabz Second batch\StackAndQueueProblem\StackAndQueueProblem\bin\Debug\net6.0\StackAndQueueProblem.dll
+D:\BridgeLabz Second batch\StackAndQueueProblem\StackAndQueueProblem\bin\Debug\net6.0\StackAndQueueProblem.pdb
+D:\BridgeLabz Second batch\StackAndQueueProblem\StackAndQueueProblem\obj\Debug\net6.0\StackAndQueueProblem.csproj.AssemblyReference.cache
+D:\BridgeLabz Second batch\StackAndQueueProblem\StackAndQueueProblem\obj\Debug\net6.0\StackAndQueueProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz Second batch\StackAndQueueProblem\StackAndQueueProblem\obj\Debug\net6.0\StackAndQueueProblem.AssemblyInfoInputs.cache
+D:\BridgeLabz Second batch\StackAndQueueProblem\StackAndQueueProblem\obj\Debug\net6.0\StackAndQueueProblem.AssemblyInfo.cs
+D:\BridgeLabz Second batch\StackAndQueueProblem\StackAndQueueProblem\obj\Debug\net6.0\StackAndQueueProblem.csproj.CoreCompileInputs.cache
+D:\BridgeLabz Second batch\StackAndQueueProblem\StackAndQueueProblem\obj\Debug\net6.0\StackAndQueueProblem.dll
+D:\BridgeLabz Second batch\StackAndQueueProblem\StackAndQueueProblem\obj\Debug\net6.0\refint\StackAndQueueProblem.dll
+D:\BridgeLabz Second batch\StackAndQueueProblem\StackAndQueueProblem\obj\Debug\net6.0\StackAndQueueProblem.pdb
+D:\BridgeLabz Second batch\StackAndQueueProblem\StackAndQueueProblem\obj\Debug\net6.0\StackAndQueueProblem.genruntimeconfig.cache
+D:\BridgeLabz Second batch\StackAndQueueProblem\StackAndQueueProblem\obj\Debug\net6.0\ref\StackAndQueueProblem.dll
