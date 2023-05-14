@@ -31,12 +31,29 @@ namespace StackAndQueueProblem
             Node temp = this.head;
             if(temp == null)
             {
-                Console.WriteLine("Linked List is Empty");
+              Console.WriteLine("Linked List is Empty");
             }
             while(temp != null)
             {
                 Console.WriteLine(temp.data);
                 temp = temp.next;
+            }
+        }
+        public void Pop()
+        {
+            if (this.head != null)
+            {
+                Console.WriteLine("Stack value {0} has popped",this.head.data);
+                this.head = this.head.next;
+                return;
+            }
+        }
+        public void Peek()
+        {
+            if(this.head != null)
+            {
+                Console.WriteLine("{0} is top value of the stack",this.head.data);
+                return;
             }
         }
     }
