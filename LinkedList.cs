@@ -9,7 +9,7 @@ namespace StackAndQueueProblem
     public class LinkedList
     {
         public Node head;
-        public void Push(int data)
+        public void Enqueue(int data)
         {
             Node node = new Node(data);
             if(this.head == null)
@@ -37,23 +37,6 @@ namespace StackAndQueueProblem
             {
                 Console.WriteLine(temp.data);
                 temp = temp.next;
-            }
-        }
-        public void Pop()
-        {
-            if (this.head != null)
-            {
-                Console.WriteLine("Stack value {0} has popped",this.head.data);
-                this.head = this.head.next;
-                return;
-            }
-        }
-        public void Peek()
-        {
-            if(this.head != null)
-            {
-                Console.WriteLine("{0} is top value of the stack",this.head.data);
-                return;
             }
         }
     }
