@@ -6,9 +6,9 @@
         {
             Console.WriteLine("Stack Problem");
             LinkedList stack = new LinkedList();
-            stack.Add(56);
-            stack.Add(30);
-            stack.Add(70);
+            stack.Push(56);
+            stack.Push(30);
+            stack.Push(70);
             stack.Display();
         }
     }

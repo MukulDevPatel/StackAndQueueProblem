@@ -9,7 +9,7 @@ namespace StackAndQueueProblem
     public class LinkedList
     {
         public Node head;
-        public void Add(int data)
+        public void Push(int data)
         {
             Node node = new Node(data);
             if(this.head == null)
